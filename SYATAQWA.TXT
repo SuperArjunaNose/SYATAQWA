@@ -1,0 +1,158 @@
+===========================================================================
+Advanced engine needed  : GZDoom 3.2.5 or newer
+Primary purpose         : Single play
+===========================================================================
+Title                   : The Rending of Syataqwa
+Filename                : SYATAQWA.WAD
+Release date            : TBD
+Author                  : Arjuna "SuperArjunaButt" Gonzales
+Email Address           : [email redacted for DoomWorld/ZDoom forum version]
+Other Files By Author   : GWS.WAD
+
+Description             : Halfway up the Miskatonic River in central
+                          Massachusetts, between the mostly quiet college
+                          town of Arkham and the tourist trap of Dunwich,
+                          lies Syataqwa Island.  No one knows how to
+                          pronounce that name.  The indigenous tribes claim
+                          it comes from an Elder God who built the island
+                          untold aeons ago for some purpose best left
+                          unexplored.  The average suburbanite, of course,
+                          laughs all this off.  Over a century has passed
+                          since the Dunwich Horror of 1928 and the incident
+                          at Innsmouth that same year, and the hipsters who
+                          moved here out of Boston and NYC to start
+                          overpriced microbreweries and gastropubs put names
+                          like Dagon and Yog-Sothoth on their IPAs and $30
+                          pumpkin spice kale salads to give them that #local
+                          #cachet #OldOnes.
+                          	The Miskatonic University System runs a branch of
+                          their Extension Service on Syataqwa Island, mainly
+                          to support various archaeological projects, but
+                          also to help local small businesses and hold summer
+                          classes for their Distance Ed students.  DoomGuy,
+                          after the events of Doom 2, returned to Earth and
+                          enrolled in Miskatonic's MBA program.  When he
+                          stepped off the Dunwich-Arkham ferry one afternoon,
+                          however, he found something had gone horribly
+                          wrong.  The business instructors uncovered
+                          management practices not meant for mortals, and now
+                          the geometry of the Peaslee Business Center makes
+                          no sense!  The Doom monsters are back, but some of
+                          them appear out of nowhere without even a teleport
+                          flash.  Someone...or something...is tearing the
+                          fabric of reality apart, and it's up to you to stop
+                          it!
+
+Additional Credits to   : This WAD uses the Shadow Hunter and Disciple enemies
+			  from Realm 667.  Here are the credits for the Disciple:
+
+			  Submitted: Tormentor667 
+                          Decorate: Eriance
+                          GLDEFs: Ghastly Dragon
+                          Sounds: Raven Software, Eriance
+                          Sprites: Raven Software
+                          Sprite Edit: Eriance
+                          Idea Base: Hellstorm Disciple
+                          
+                          And for the Shadow Hunter
+                          
+                          Submitted: DoomedArchvileDemon
+                          Decorate: DoomedArchvileDemon, TheMightyHeracross
+                          Sounds: Freesounds, SeriousSam
+                          Sprites: HorrorMovieGuy
+                          Idea Base: HorrorMovieGuy's sprite sheet on this
+                          enemy
+
+			  For the Devil Worms:
+
+			  Submitted: Doomedarchviledemon
+			  Decorate: Captain Toenail, Doomedarchviledemon
+			  Sprites: Exhumed / Powerslave, Gothic
+			  Sprite Edits: Doomedarchviledemon
+			  Sounds: Serious Sam, Freesounds
+			  Idea Base: Tremors
+                          
+                          Background noise from:
+                          https://freesound.org/people/onderwish/sounds/170989/
+                          
+                          Cyclopean masonry texture based on
+                          https://commons.wikimedia.org/wiki/File:Mycenae_walls_interior.JPG
+                          
+                          The stone barn photo is from:
+                          https://commons.wikimedia.org/wiki/File:Old_Stone_Barn,_Harvard_Shakers.jpg
+                          
+                          The Cthulhu texture comes from the Psyren texture
+                          pack on Realm667
+                          See
+                          http://www.realm667.com/index.php/en/texture-stock-mainmenu-152-97360/55-doom-style4/636-psyren-texture-pack
+                          
+                          The title pic is based on this photo of the
+                          Housatonic river:
+                          https://commons.wikimedia.org/wiki/File:Houstatonic_river.jpg
+                          
+                          And uses the Face Your Fears font from:
+                          https://www.dafont.com/face-your-fears.font
+                          
+                          The earthquake sound effect is from:
+                          https://freesound.org/people/uagadugu/sounds/222521/
+                          
+                          If you couldn't tell, the skybox is the opening
+                          skybox from Doom 2 with 
+                          some contrast and color balance changes in GIMP.
+                          
+                          Last but not least, shoutout to @LadyKalma 
+                          for an exchange on
+                          Twitter that has significantly improved the story.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01-02
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : Mr. Friendly
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : About 2 months
+Editor(s) used          : SLADE3, GIMP, Audacity
+May Not Run With        : Anything other than GZDoom/QZDoom.  It might work on
+                          future versions of Zandronum (above 3.0) once they catch up
+                          with GZDoom's DECORATE stuff
+Tested With             : GZDoom 3.2.5, QZDoom
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
